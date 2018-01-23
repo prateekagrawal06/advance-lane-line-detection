@@ -95,4 +95,4 @@ Here's a [link to my video result](./project_video.mp4)
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-The problem that I faced during this was mostly coming up with the vales of the parameters for the Sobel gradients. 
+The problem that I faced during this was mostly coming up with the vales of the parameters for the Sobel gradients. The scenarios where the pipeline is nor going to do a good prediction are chnages in the color of the road. We need to come up with better combination of the mixting the gradients and color specs. Also the pipeline is not going to wrong in snowy road. We can use the car in front as a reference point in this case 
