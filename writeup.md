@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image2]: ./output_images/undistroted_image.jpg "Undistorted"
 [image3]: ./output_images/combines_grad_s_image.jpg "combined grad image"
 [image4]: ./output_images/warped_image.jpg "Warp Example"
-[image4]: ./output_images/final_image_image.jpg "final image"
+[image5]: ./output_images/final_image_image.jpg "final image"
 [video1]: ./project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
